@@ -39,7 +39,7 @@ const projectData = [
     description: "The website you are on right now !!",
     skills: "React.js • Next.js • Tailwind CSS",
     image: "/images/personal-portfolio.png",
-    gitUrl: "https://github.com/avallip443/ChatGPT-survey-analysis",
+    gitUrl: "https://github.com/avallip443/arathi-portfolio",
     previewUrl: "https://arathi-vallipuranathan.vercel.app/",
   },
   {
