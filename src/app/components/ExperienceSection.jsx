@@ -31,7 +31,7 @@ const TAB_DATA = [
             Oversaw administrative operations, including drafting correspondance
             to 30+ weekly communication requests, managing system database by
             inputting data and electronic files to produce monthly reports and
-            conduct effective inventory management, and organizing students'
+            conduct effective inventory management, and organizing students &apos
             weekly materials
           </li>
           <br />
@@ -64,7 +64,7 @@ const TAB_DATA = [
               among members and school groups by organizing monthly
               page-creation goals and weekly meetings, supervising all facets of
               production, providing technical support, and arranging
-              yearbook-related initiatives (recruitment, training, photshootsm,
+              yearbook-related initiatives (recruitment, training, photshoots,
               sales and events promotions)
             </li>
             <br />
