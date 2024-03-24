@@ -19,7 +19,7 @@ const projectData = [
     description:
       "Developing application to manipulate and present statistics of LaLiga soccer players",
     skills: "React.js • SpringBoot • Python • PostgreSQL • Tailwind CSS",
-    image: "",
+    image: "/",
     gitUrl: "https://github.com/avallip443/player-stats-data-scraping",
     previewUrl: "/",
   },

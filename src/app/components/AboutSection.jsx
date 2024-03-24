@@ -74,7 +74,7 @@ const AboutSection = () => {
             {"> about me"}
           </h2>
           <p className="text-[#dedede] text-lg">
-            👋 Hello! I&apos;m Arathi, a second-year Computer Science Co-op
+            👋 Hello! I&apos;m Arathi, a Computer Science Co-op
             student at{" "}
             <span className="text-[#C5B6F1] font-extrabold">
               Toronto Metropolitan University

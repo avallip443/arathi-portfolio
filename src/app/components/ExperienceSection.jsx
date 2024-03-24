@@ -55,7 +55,7 @@ const TAB_DATA = [
           <ul className="list-disc pl-2 text-lg text-[#dedede]">
             <li>
               Led a dynamic team of 35+ writers, photgraphers, and designers to
-              successfully publish, sell, and distribute 700 copies of a
+              successfully publish, sell, and distribute over 700 copies of a
               144-page yearbook
             </li>
             <br />
