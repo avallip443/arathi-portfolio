@@ -28,11 +28,11 @@ const TAB_DATA = [
           </li>
           <br />
           <li>
-            Oversaw administrative operations, including addressing 30+ weekly
-            communication requests, training new staff, updating teaching and
-            administrative processes, and managing system database by inputting
-            data and electronic files to produce monthly reports and conduct
-            effective inventory management
+            Oversaw administrative operations, including drafting correspondance
+            to 30+ weekly communication requests, managing system database by
+            inputting data and electronic files to produce monthly reports and
+            conduct effective inventory management, and organizing students'
+            weekly materials
           </li>
           <br />
         </ul>
@@ -54,29 +54,24 @@ const TAB_DATA = [
           <p className="mb-5 text-base">JUL 2021 - JUN 2022</p>
           <ul className="list-disc pl-2 text-lg text-[#dedede]">
             <li>
-              Led a dynamic team of 35+ team to successfully publish, sell, and
-              distribute 700+ copies of a 144-page yearbook
+              Led a dynamic team of 35+ writers, photgraphers, and designers to
+              successfully publish, sell, and distribute 700 copies of a
+              144-page yearbook
             </li>
             <br />
             <li>
-              Facilitated effective communication, time management, and
-              collaboration among technical and non-technical teams by preparing
-              and facilitating monthly page-creation goals and weekly meetings,
-              supervising all facets of production, providing technical support
-              with software, and dynamically prioritizing members’ tasks to
-              maximize productivity
+              Facilitated seamless communication, coordination, and teamwork
+              among members and school groups by organizing monthly
+              page-creation goals and weekly meetings, supervising all facets of
+              production, providing technical support, and arranging
+              yearbook-related initiatives (recruitment, training, photshootsm,
+              sales and events promotions)
             </li>
             <br />
             <li>
               Demonstrated mastery of time management skills by consistently
               meeting tight deadlines without compromising quality of final
               product
-            </li>
-            <br />
-            <li>
-              Organized yearbook-related initiatives, including team
-              recruitment, training (graphic design software and photography
-              equipment), sales, and distribution of yearbooks
             </li>
             <br />
           </ul>

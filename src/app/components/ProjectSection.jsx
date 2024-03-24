@@ -7,34 +7,43 @@ const projectData = [
     id: 1,
     title: "Instagram Clone",
     description:
-      "Replica of social media app Instagram, featuring user authentication, post-creation, real-time user interactions, and profile customization",
+      "Replica of social media app Instagram, featuring user authentication, post-creation, real-time user interactions, profile customization, and responsive design",
     skills: "React.js • Firebase • ChakraUI",
     image: "/images/instagram",
     gitUrl: "https://github.com/avallip443/instagram-clone",
-    previewUrl: "https://instagram-clone-three-topaz.vercel.app/",
+    previewUrl: "https://instagram-clone-four-topaz.vercel.app/auth",
   },
   {
     id: 2,
+    title: "ScoreSphere: LaLiga Stats Tracker [Ongoing]",
+    description:
+      "Developing application to manipulate and present statistics of LaLiga soccer players",
+    skills: "React.js • SpringBoot • Python • PostgreSQL • Tailwind CSS",
+    image: "",
+    gitUrl: "https://github.com/avallip443/player-stats-data-scraping",
+    previewUrl: "/",
+  },
+  {
+    id: 3,
     title: "Expense Tracker",
     description:
-      "Daily expenses tracker that using MERN stack, a RESTful API, and Tailwind CSS ",
+      "Expenses tracker that using MERN stack and RESTful API for seamless daily expense logging ",
     skills: "MongoDB • Express.js • React.js • Node.js • Tailwind CSS",
     image: "/images/expense-tracker.png",
     gitUrl: "https://github.com/avallip443/expense-tracker",
     previewUrl: "https://expense-tracker-app-sage.vercel.app/",
   },
   {
-    id: 3,
+    id: 4,
     title: "Personal Portfolio Website",
-    description:
-      "The website you are on right now !!",
+    description: "The website you are on right now !!",
     skills: "React.js • Next.js • Tailwind CSS",
     image: "/images/personal-portfolio.png",
     gitUrl: "https://github.com/avallip443/ChatGPT-survey-analysis",
     previewUrl: "https://arathi-vallipuranathan.vercel.app/",
   },
   {
-    id: 4,
+    id: 5,
     title: "ChatGPT Survey Analysis",
     description:
       "Analyzes survey responses to generate insightful graphs on ChatGPT's academic perception and future role in education",
@@ -44,20 +53,20 @@ const projectData = [
     previewUrl: "/",
   },
   {
-    id: 5,
+    id: 6,
     title: "Bend Your Footprint",
     description:
       "Carbon emission calculator suggesting eco-conconsious lifestyle decisions. Created for ElleHacks 2023",
-    skills:
-      "HTML/CSS • JavaScript • Python • Responses API • Hubspot ",
+    skills: "HTML/CSS • JavaScript • Python • Responses API • Hubspot ",
     image: "/images/bend-your-footprint.jpg",
     gitUrl: "https://github.com/avallip443/ElleHack23-Project",
     previewUrl: "https://devpost.com/software/bend-your-footprint",
   },
   {
-    id: 6,
+    id: 7,
     title: "Web Development Labs",
-    description: "Collection of 10 web development labs associated with CPS530 at TMU",
+    description:
+      "Collection of 10 web development labs associated with CPS530 at TMU",
     skills:
       "HTML/CSS • Bootstrap • JavaScript • jQuery • SVG • Perl • PHP • MySQL • Classic ASP • Python • Ruby • React.js ",
     image: "/images/lab9b.png",
@@ -65,7 +74,7 @@ const projectData = [
     previewUrl: "/",
   },
   {
-    id: 7,
+    id: 8,
     title: "Audio Streaming App",
     description: "Emmulates the functionalities of an audio-streaming app",
     skills: "Java",

@@ -10,19 +10,18 @@ const TAB_DATA = [
     content: (
       <ul className="list-none text-md text-[#dedede]">
         <li>
-          <span className="text-white font-bold">Languages: </span>Python, Java, C, JavaScript, HTML, CSS, PHP, R, SQL (MySQL), Bash
+          <span className="text-white font-bold">Languages: </span>Python, Java,
+          C, JavaScript, R, SQL (MySQL, PostgreSQL), PHP, Elixir, HTML, CSS
         </li>
         <br />
         <li>
-          <span className="text-white font-bold">
-            Frameworks & libraries:{" "}
-          </span>
-          React, Next.js, Node.js, Express.js, Tailwind CSS, NumPy, Pandas
+          <span className="text-white font-bold">Frameworks & libraries: </span>
+          React, Spring, Node.js, Next.js, Express.js, jQuery
         </li>
         <br />
         <li>
           <span className="text-white font-bold">Other Tools: </span>
-          Git, Github, Linux, PowerBI, Tableau, MS Office, Firebase, MongoDB
+          Git, RESTful APIs, PowerBI, Tableau, Linux/Unix
         </li>
       </ul>
     ),
@@ -40,7 +39,7 @@ const TAB_DATA = [
             Bachelor of Science (Hons) - Computer Science <br />
           </p>
           <p className="ml-6">
-            <em>Sept. 2022 - Apr. 2027</em> <br />
+            <em>Expected Graduation: Apr. 2027</em> <br />
             <em>GPA: </em>4.15/4.33 <br />
             <em>Dean&apos;s List:</em> 2022-2023 <br />
           </p>
@@ -75,18 +74,22 @@ const AboutSection = () => {
             {"> about me"}
           </h2>
           <p className="text-[#dedede] text-lg">
-          👋 Hello! I&apos;m Arathi, a second-year Computer Science Co-op student at{" "}
+            👋 Hello! I&apos;m Arathi, a second-year Computer Science Co-op
+            student at{" "}
             <span className="text-[#C5B6F1] font-extrabold">
               Toronto Metropolitan University
-            </span>. I am seeking internship opportunities for 2024 :)
+            </span>
+            .
             <br />
             <br />
-
-            I&apos;m always eager to expand my skill set and gain new experiences by finding new challenges. I&apos;m interested in full stack and web development, combined my passion for graphic design.
+            I&apos;m always eager to expand my skill set and gain new
+            experiences by finding new challenges. I&apos;m interested in full
+            stack and web development and combining my passion for graphic
+            design.
             <br />
             <br />
-            Outside of coding, I love to read, crochet, and spend time with friends and family.
-
+            Outside of coding, I love to read, crochet, and spend time with
+            friends and family.
           </p>
           <div className="flex flex-row justify-start mt-8">
             <TabButton

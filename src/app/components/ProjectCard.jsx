@@ -58,6 +58,7 @@ const ProjectCard = ({
             {previewUrl !== "/" && (
               <Link
                 href={previewUrl}
+                target="_blank"
                 className="h-6 mx-5 relative hover:border-white group/link"
               >
                 <EyeIcon className="h-6 w-6 text-[#ADB7BE] absolute cursor-pointer group-hover/link:text-white" />
