@@ -1,4 +1,4 @@
-## Arathi's Portfolio 
+## Arathi's Portfolio (V1) 
 
 This is my personal portfolio built with React, Next.js, and Tailwind CSS!
 
